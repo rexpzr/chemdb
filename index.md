@@ -1,5 +1,7 @@
 ---
-layout: posts
+layout: post
 ---
 
 ## トップページ
+
+Test page
